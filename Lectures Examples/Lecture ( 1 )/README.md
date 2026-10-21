@@ -1,4 +1,4 @@
-# 🚀 Flutter Profile App (Part Two) 🌟
+# Flutter Profile App 
 
 This project demonstrates how to build a simple profile page using various Flutter widgets. Below is an overview of the key components used in the app.
 
