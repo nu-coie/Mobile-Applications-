@@ -46,8 +46,8 @@ Selecting **Unfollow** removes the selected user from the displayed list and upd
 | File | Description |
 |---|---|
 | **HomeScreen (V2)** | Updated home-screen implementation |
-| **foloing** | Following screen with dynamic user lists and Unfollow functionality |
-| **Follow data** | User information separated from UI components |
+| **Followers** | Following screen with dynamic user lists and Unfollow functionality |
+| **followers_data** | User information separated from UI components |
 
 ## Original Version (V1)
 
